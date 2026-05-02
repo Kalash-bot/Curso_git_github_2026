@@ -1,0 +1,3 @@
+1- cd = muda o diretório
+2- ls = lista o conteúdo do diretório
+3- pwd = caminho do diretório que estou
