@@ -1,3 +1,6 @@
 1- cd = muda o diretório
 2- ls = lista o conteúdo do diretório
 3- pwd = caminho do diretório que estou
+5- cat = acessar arquivos
+6- rm -rf = apaga tudo do diretório sem necessidade de permissão
+
