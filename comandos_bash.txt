@@ -5,3 +5,4 @@
 6- rm = remove arquivo do diretório
 7- rm -rf = apaga tudo do diretório forçadamente sem necessidade de permissão
 
+foda se
