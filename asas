@@ -1,0 +1,60 @@
+[33mcommit 616b9b63f0c5ab665e4b17ce9ddce04ed77c9512[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Merge: 8daea44 ae5ba1b
+Author: Jonathan Red <jonathan_luis027@hotmail.com>
+Date:   Sun May 3 00:59:59 2026 -0300
+
+    Merge branch 'secundaria02'
+
+[33mcommit 8daea44ee5c889e5ae6a0c3b6a1169f5f71cfdc0[m[33m ([m[1;32msecundaria01[m[33m)[m
+Author: Jonathan Red <jonathan_luis027@hotmail.com>
+Date:   Sun May 3 00:58:14 2026 -0300
+
+    linhas no arquivo 01
+
+[33mcommit 5ef99d8ea9f4ab786312dcb8baaddc0d0683eec3[m
+Author: Jonathan Red <jonathan_luis027@hotmail.com>
+Date:   Sun May 3 00:55:56 2026 -0300
+
+    arquivo01 criado
+
+[33mcommit ae5ba1babc3c3cac506d7cbf4faa4941c5aefc8b[m[33m ([m[1;32msecundaria02[m[33m)[m
+Author: Jonathan Red <jonathan_luis027@hotmail.com>
+Date:   Sun May 3 00:51:20 2026 -0300
+
+    mais uma linha no arquivo 02
+
+[33mcommit 97370913329b53d3905f6064208fd306357246e7[m
+Author: Jonathan Red <jonathan_luis027@hotmail.com>
+Date:   Sun May 3 00:49:12 2026 -0300
+
+    aquivo 02 criado
+
+[33mcommit fc237ccc858baaa7d6d634d489c2106e27ddd159[m
+Author: Jonathan Red <jonathan_luis027@hotmail.com>
+Date:   Sun May 3 00:29:37 2026 -0300
+
+    novos comandos secundarios
+
+[33mcommit 1227c8b61f44f200cda21775653f4a5790abb14e[m
+Author: Jonathan Red <jonathan_luis027@hotmail.com>
+Date:   Sun May 3 00:15:38 2026 -0300
+
+    fodase comandos bash
+
+[33mcommit 75e84ccde99659a2422363a576c593b45d4b37b5[m
+Author: Jonathan Red <jonathan_luis027@hotmail.com>
+Date:   Sat May 2 00:03:19 2026 -0300
+
+    novos comandos em git e bash
+
+[33mcommit 6ec286f60c5a90c6dbd7034588b836d32f899606[m
+Author: Jonathan Red <jonathan_luis027@hotmail.com>
+Date:   Fri May 1 23:49:46 2026 -0300
+
+    Novos comandos bash e primeiros comandos git
+
+[33mcommit 8451464a640515185cbc71a7fb5ac12d818ce585[m
+Author: Jonathan Red <jonathan_luis027@hotmail.com>
+Date:   Fri May 1 23:40:25 2026 -0300
+
+    Primeiros comandos bash
